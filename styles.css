@@ -1,0 +1,46 @@
+#intro {
+    font-family: 'Biryani', sans-serif;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+h1 {
+    font-family: 'Archivo Black', sans-serif;
+}
+
+#about-me p{
+    font-style: oblique;
+}
+
+#skills {
+    max-width: 480px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li:first-child {
+    font-size: 18px;
+    color: #259073;
+    font-weight: bold;
+}
+
+li:not(first-child) {
+    color: #4b4b4c;
+}
+
+.logo {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-left: 20px;
+    border-right: 20px;
+}
+
+#media {
+    text-align: center;  
+    padding: 50px;
+}
